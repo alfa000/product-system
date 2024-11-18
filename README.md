@@ -6,8 +6,6 @@
 * Make sure you are using JDK and Maven
 * You can build the project and run the tests by running ```mvn clean package```
 
-* Check the stdout or boot_example.log file to make sure no exceptions are thrown
-
 ## About the Service
 
 The service is a order system REST service. It uses an in-memory database (H2) to store the data. You can also do with a relational database like MySQL or PostgreSQL. **port 8080**. (see below)
