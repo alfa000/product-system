@@ -16,15 +16,6 @@ More interestingly, you can start calling some of the operational endpoints (see
 
 You can use this sample service to understand the conventions and configurations that allow you to create a DB-backed RESTful service. Once you understand and get comfortable with the sample app you can add your own services following the same patterns as the sample service.
 
-### Get information about system health, configurations, etc.
-
-```
-http://localhost:8091/env
-http://localhost:8091/health
-http://localhost:8091/info
-http://localhost:8091/metrics
-```
-
 ### Get product
 
 ```
